@@ -5,6 +5,8 @@ Step 1.
 Install Rust by typing:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 then select 1 to Proceed with installation (default)
+
+
 ![Screenshot 2023-02-13 at 15 01 36](https://user-images.githubusercontent.com/101109956/218494071-4bd1178e-cd00-458b-a4be-12620bc6b59b.png)
 
 Step 2.
