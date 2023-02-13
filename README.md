@@ -42,7 +42,13 @@ Check and connect to test node.
 
 Check:
 concordium-client -help
+
+
+
+
 ![Screenshot 2023-02-13 at 14 48 28](https://user-images.githubusercontent.com/101109956/218494247-d042eca1-f8d7-41c0-823b-a0512a8be11a.png)
+
+
 
 Connect to test node:
 concordium-client consensus status --grpc-port 10000 --grpc-ip node.testnet.concordium.com
@@ -64,4 +70,5 @@ using command:
 concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Your-Wallet-Name>
 ![Screenshot 2023-02-13 at 14 56 11](https://user-images.githubusercontent.com/101109956/218494463-2b6f93c7-ddb6-434d-91d2-061b0dc3f218.png)
 
-where <YOUR PUBLIC ADDRESS.export> is a file name and <Your-Wallet-Name> is your concordium wallet account. 
+where /.<YOUR PUBLIC ADDRESS.export> is a file name and <Your-Wallet-Name> is your concordium wallet account. 
+
